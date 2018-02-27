@@ -1,0 +1,54 @@
+ul{list-style-type: none;
+		
+		background-color:black;
+	    overflow: hidden; 
+	    margin: 10px;
+	    padding:0;
+
+	}
+	
+
+	
+	li a {float:right;
+		text-decoration:none;
+		color:red;
+		display: block;
+		padding:15px;
+
+	}
+
+button {
+	height:30px;
+	width:110px;
+	padding:5px;
+	color: white;
+	border:1px solid white;
+	background: #1A1919;
+	float: right;
+	margin-top: 5px;
+
+}
+
+	#backgr{background-image: url("cover.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height: 400px;
+	width:100%;
+
+
+
+}
+
+   .img{ border:5px solid black;
+   		width:350px;
+   		padding:5px;
+   		float: left;
+   	}
+
+
+.desc { 
+	text-align: center;
+	padding:5px;
+	background-color: white;
+
+}
